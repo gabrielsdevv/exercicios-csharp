@@ -1,0 +1,15 @@
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\bin\Debug\net10.0\exercicios-csharp.exe
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\bin\Debug\net10.0\exercicios-csharp.deps.json
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\bin\Debug\net10.0\exercicios-csharp.runtimeconfig.json
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\bin\Debug\net10.0\exercicios-csharp.dll
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\bin\Debug\net10.0\exercicios-csharp.pdb
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.AssemblyInfoInputs.cache
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.AssemblyInfo.cs
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.csproj.CoreCompileInputs.cache
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.sourcelink.json
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.dll
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\refint\exercicios-csharp.dll
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.pdb
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\exercicios-csharp.genruntimeconfig.cache
+C:\Users\gs852\Documents\Gabriel\aula c#\exercicios\exercicios-csharp\obj\Debug\net10.0\ref\exercicios-csharp.dll
