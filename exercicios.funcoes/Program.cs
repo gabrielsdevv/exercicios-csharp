@@ -30,7 +30,8 @@ class Program
       else
         {
             m = c;
-        }  
+        } 
+        return m;
 
     }
 }
